@@ -1,1 +1,1 @@
-"""快照差量同步"""
+from .core import *  # noqa: F401,F403
