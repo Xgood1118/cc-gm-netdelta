@@ -25,3 +25,8 @@ def seq_gap(seqs):
     """找序号缺口"""
     raise NotImplementedError("seq_gap 尚未实现")
 
+
+def load_snapshots(path):
+    """读入与落盘辅助"""
+    raise NotImplementedError("load_snapshots 尚未实现")
+
